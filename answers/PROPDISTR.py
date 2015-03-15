@@ -1,0 +1,11 @@
+a = int(input("Um valor para A: "))
+b = int(input("Um valor para B: "))
+c = int(input("Um valor para C: "))
+d = int(input("Um valor para D: "))
+
+print(a,"+",b, "=", a+b)
+print(a,"+",c, "=", a+c)
+print(a,"+",d, "=", a+d)
+print(a,"*",b, "=", a*b)
+print(a,"*",c, "=", a*c)
+print(a,"*",d, "=", a*d)

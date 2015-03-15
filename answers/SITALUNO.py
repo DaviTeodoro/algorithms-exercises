@@ -1,6 +1,6 @@
 notas = []
 soma = 0
-notinser = int(input('Quantas notas vao ser inseridas? ')) #permite ao usuario desidir quantas notas quer inserir
+notinser = int(input('Quantas notas vao ser inseridas? ')) #permite ao usuario decidir quantas notas quer inserir
 for i in range(notinser):
 	i = float(input('Nota: ')) #atualmente notas acima de 10 podem ser inseridas
 	notas.append(i)

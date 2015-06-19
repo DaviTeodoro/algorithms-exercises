@@ -1,3 +1,4 @@
+#Converts seconts to HMS format
 sec = int(input("Seconts: "))
 
 h = sec / 3600
